@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/YouTube_20170630/YouTube%2b%2b.ipa</string>
+						<string>https://archive.org/download/Instagram_20170630/Instagram%2b%2b.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://icons.iconarchive.com/icons/designbolts/minimalist-social/256/YouTube-icon.png</string>
+						<string>http://vip.othman.tv/o45/insta.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,20 +34,20 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://icons.iconarchive.com/icons/designbolts/minimalist-social/256/YouTube-icon.png</string>
+						<string>http://vip.othman.tv/o45/insta.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.google.ios.youtube
+				<string>com.burbn.instagram
 </string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>يوتيوب من قبل @6store</string>
+				<string>انستغرام من قبل @6store</string>
 			</dict>
 		</dict>
 	</array>
