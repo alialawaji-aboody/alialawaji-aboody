@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/tafaeel/tafaeel.ipa</string>
+						<string>https://archive.org/download/abuwesamen_gmail_File/file.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://a.top4top.net/p_546ufts81.png</string>
+						<string>http://upload.iszene.com/images/08503141809873941824.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,19 +34,20 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://a.top4top.net/p_546ufts81.png</string>
+						<string>http://upload.iszene.com/images/08503141809873941824.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.tafeel</string>
+				<string>eu.heinelt.ifile
+</string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>تفعيل من قبل @6store</string>
+				<string>اي فايل من قبل @6store</string>
 			</dict>
 		</dict>
 	</array>
