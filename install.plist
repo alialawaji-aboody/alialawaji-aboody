@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/abuwesamen_gmail_Kik/kik.ipa</string>
+						<string>https://archive.org/download/facbook2/facbook2.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://b.top4top.net/p_546m8bv01.jpeg</string>
+						<string>http://icons.iconarchive.com/icons/yootheme/social-bookmark/256/social-facebook-button-blue-icon.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,20 +34,19 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://b.top4top.net/p_546m8bv01.jpeg</string>
+						<string>http://icons.iconarchive.com/icons/yootheme/social-bookmark/256/social-facebook-button-blue-icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.kik2
-</string>
+				<string>com.facebook.Facebook</string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>اي بلاي من قبل @6store</string>
+				<string>فيسبوك معرب من قبل @6store</string>
 			</dict>
 		</dict>
 	</array>
