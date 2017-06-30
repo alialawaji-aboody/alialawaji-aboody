@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/Whatsapp2_20170630/whatsapp%2b%2b2.ipa</string>
+						<string>https://archive.org/download/snapchat_20170630/snapchat.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://icons.iconarchive.com/icons/dtafalonso/android-l/256/WhatsApp-icon.png</string>
+						<string>http://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Snapchat-icon.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,19 +34,19 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://icons.iconarchive.com/icons/dtafalonso/android-l/256/WhatsApp-icon.png</string>
+						<string>http://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Snapchat-icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string></string>
+				<string>com.toyopagroup.picaboo٢</string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>واتساب ٢ من قبل @6store</string>
+				<string>سناب بلس  من قبل @6store</string>
 			</dict>
 		</dict>
 	</array>
