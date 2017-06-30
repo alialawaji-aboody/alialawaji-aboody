@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/Spotify_20170630/Spotify.ipa</string>
+						<string>https://archive.org/download/abuwesamen_gmail_BBM2/BBM2.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://server4.uaepro.me/files/21774/199725.png</string>
+						<string>http://dl.dropboxusercontent.com/s/oprq4dsiilnv4i0/icon350x350.jpeg</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,19 +34,19 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://server4.uaepro.me/files/21774/199725.png</string>
+						<string>http://dl.dropboxusercontent.com/s/oprq4dsiilnv4i0/icon350x350.jpeg</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.spotify.client</string>
+				<string>P01.blackberry.bbm1١</string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>فري فديو  من قبل @6store</string>
+				<string>بيبي ام ٢  من قبل @6store</string>
 			</dict>
 		</dict>
 	</array>
