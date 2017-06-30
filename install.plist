@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/abuwesamen_gmail_BBM3/BBM3.ipa</string>
+						<string>https://archive.org/download/SCAli_201706/SCAli.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://dl.dropboxusercontent.com/s/oprq4dsiilnv4i0/icon350x350.jpeg</string>
+						<string>http://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Snapchat-icon.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,19 +34,19 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://dl.dropboxusercontent.com/s/oprq4dsiilnv4i0/icon350x350.jpeg</string>
+						<string>http://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Snapchat-icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>P01.blackberry.bbm1١</string>
+				<string>com.toyopagroup.picaboo</string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>بيبي ام ٣  من قبل @6store</string>
+				<string>سناب بآدات عثمان  من قبل @6store</string>
 			</dict>
 		</dict>
 	</array>
