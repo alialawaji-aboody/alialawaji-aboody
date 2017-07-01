@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/phantom_201707/phantom.ipa</string>
+						<string>https://archive.org/download/abuwesamen_gmail_Tutu/tutu.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Snapchat-icon.png</string>
+						<string>https://server3.uaepro.me/files/900/171261.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,19 +34,19 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://icons.iconarchive.com/icons/limav/flat-gradient-social/256/Snapchat-icon.png</string>
+						<string>https://server3.uaepro.me/files/900/171261.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.toyopagroup.picaboo٤</string>
+				<string>com.tutu</string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>  سناب فانتوم  من قبل @6store</string>
+				<string> التفعيل  من قبل @6store</string>
 			</dict>
 		</dict>
 	</array>
