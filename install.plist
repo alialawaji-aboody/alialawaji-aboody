@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/WhatsApp_20170703_1324/WhatsApp%2b%2b.ipa</string>
+						<string>https://archive.org/download/Whatsapp2_201707/Whatsapp%2b%2b2.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -40,13 +40,13 @@
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.whatsapp.WhatsApp</string>
+				<string>net.whatsapp.WhatsApp٢</string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string‫<‬واتس اب اساسي من قبل‫@‬Pro6store</string>
+				<string‫<‬واتس اب مكرر من قبل‫@‬Pro6store</string>
 			</dict>
 		</dict>
 	</array>
