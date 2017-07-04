@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/Twitter2_201707/Twitter%2b%2b2.ipa</string>
+						<string>https://archive.org/download/WhatsApp_20170703_1324/WhatsApp%2b%2b.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://c.top4top.net/p_548fx3ik1.png</string>
+						<string>http://icons.iconarchive.com/icons/dtafalonso/android-l/256/WhatsApp-icon.png</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,19 +34,19 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>https://c.top4top.net/p_548fx3ik1.png</string>
+						<string>http://icons.iconarchive.com/icons/dtafalonso/android-l/256/WhatsApp-icon.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.twitter2</string>
+				<string>net.whatsapp.WhatsApp</string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string> تويتر مكررstore</string>
+				<string‫<‬واتس اب اساسي من قبل‫@‬Pro6store</string>
 			</dict>
 		</dict>
 	</array>
