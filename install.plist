@@ -15,7 +15,7 @@
 						<string>software-package</string>
 						<!-- required. the URL of the file to download. -->
 						<key>url</key>
-						<string>https://archive.org/download/Whatsapp2_201707/Whatsapp%2b%2b2.ipa</string>
+						<string>https://archive.org/download/cydia07a_gmail_Kik2/kik2.ipa</string>
 					</dict>
 					<!-- display-image: the icon to display during download .-->
 					<dict>
@@ -25,7 +25,7 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://icons.iconarchive.com/icons/dtafalonso/android-l/256/WhatsApp-icon.png</string>
+						<string>https://lh3.googleusercontent.com/XPCe5NnyoQwqNBWQRMVbd32j-9wJ2SrqWhEibZWW-7Ke5T7awXfQ9mouC4wj5HgkoSY=w300-rw</string>
 					</dict>
 					<!-- full-size-image: the large 512x512 icon used by iTunes. -->
 					<dict>
@@ -34,19 +34,19 @@
 						<key>needs-shine</key>
 						<true/>
 						<key>url</key>
-						<string>http://icons.iconarchive.com/icons/dtafalonso/android-l/256/WhatsApp-icon.png</string>
+						<string>https://lh3.googleusercontent.com/XPCe5NnyoQwqNBWQRMVbd32j-9wJ2SrqWhEibZWW-7Ke5T7awXfQ9mouC4wj5HgkoSY=w300-rw</string>
 					</dict>
 				</array>
 				<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>net.whatsapp.WhatsApp٢</string>
+				<string>com.kik.2</string>
 				<key>bundle-version</key>
 				<string>10.10.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string‫<‬واتس اب مكرر من قبل‫@‬Pro6store</string>
+				<string‫<‬ كيك مكرر من قبل‫@‬6store</string>
 			</dict>
 		</dict>
 	</array>
