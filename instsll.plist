@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://archive.org/download/PHOTOSHOP_20170705/PHOTOSHOP.ipa</string>
+                    <string>https://archive.org/download/CydiaExtenderV0.9.41006/Cydia%20Extender%2B%2B%20v0.9.41_006.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
@@ -23,7 +23,7 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>PHOTOSHOP من فريق متجر 6store</string>
+                <string>CYDIA extender من فريق متجر 6store</string>
             </dict>
         </dict>
     </array>
